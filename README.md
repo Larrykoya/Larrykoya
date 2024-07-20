@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Larrykoya
-- 👀 I’m a software developer
-- 🌱 Stack: MERN-stack, JAVA, Python and SQL
-- 💞️ I’m looking to collaborate on any worthwhile project
-- 📫 How to reach me: larrykoya@yahoo.com
-- ⚡ Fun fact: I Love to code.
+Hi, I’m @Larrykoya
+I’m a software developer
+Stack: Typescript, Node.js, Python, SQL & NoSQL Databases
+I'm open to collaboration
+How to reach me: larrykoya@yahoo.com
