@@ -1,5 +1,5 @@
 - Hi, I’m @Larrykoya
 - I’m a software developer
-- Stack: Typescript, Node.js, Python, SQL & NoSQL Databases
+- Stack: Typescript, Node.js, PHP, Laravel, Flutter, Python, SQL & NoSQL Databases
 - I'm open to collaboration
 - You can reach me via larrykoya@yahoo.com
